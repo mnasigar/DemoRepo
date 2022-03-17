@@ -6,5 +6,10 @@ public class TestBase
 	{
 		System.out.println("test");
 	}
+	
+	public void test1()
+	{
+		system.out.println("test1");
+	}
 
 }
